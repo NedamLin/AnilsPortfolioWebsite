@@ -1,0 +1,45 @@
+/* Header */
+.hero{
+    height: 50vh;
+
+}
+#navbar{
+    font-size: smaller;
+    padding-top: 60px;
+}
+
+#navbar, h1, h4{
+padding-bottom: 20px;
+    
+}
+#navbar, h3{
+padding-bottom: 70px;
+}
+.box{
+    display: block;
+}
+.card{
+    width: 300px;
+    height: 700px;
+}
+.pra p{
+   font-size: 12px;
+}
+footer{
+    height: 300px;
+}
+.service{
+    margin-bottom: -100px;
+}
+.service h2{
+    display: inline;
+}
+#work-a{
+    display: none;
+}
+#work-b{
+    display: block;
+    height: auto;    
+    background-color:black ;
+    color: white;
+}
