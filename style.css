@@ -137,7 +137,7 @@ button:hover{
 	border-radius: 20px;
 	margin: 15px;
 	position: relative;
-	
+	overflow: auto;
 	text-align: center;
 }
 .card i{
